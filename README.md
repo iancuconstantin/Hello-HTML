@@ -1,5 +1,14 @@
 # Hello-HTML
 
+## What I`ve learned:
+
+- lists
+- links
+- images
+- tables
+- headings
+- acronyms
+
 ## Tasks
 
 1. Create a file named `index.html`. In it print your name with every letter being  of a different size and on a new line.
